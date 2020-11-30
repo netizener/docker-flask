@@ -10,7 +10,7 @@ A simple "Hello World" application on Flask and Docker
 * Clone this repository : `git clone https://github.com/netizener/docker-flask`
 * Build the docker image : `docker image build -t python-hello-world .`
 * Run the docker image : `docker run -p 5001:5000 -d python-hello-world`
-* Browse to [localhost:5001](localhost:5001] on your preferred web browser. You'll be greeted with "Hello World"!
+* Browse to [localhost:5001](localhost:5001) on your preferred web browser. You'll be greeted with "Hello World"!
 
 
 > Go ahead and build Flask applications using this Docker image! Good Luck :)
