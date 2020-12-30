@@ -1,5 +1,5 @@
 # docker-flask
-A simple "Hello World" application on Flask and Docker
+A simple "Hello World" application on Flask and Docker.
 
 ## Prerequisites
 * You should have Docker installed in your computer. Download Docker from [here](https://docs.docker.com/get-docker/)
